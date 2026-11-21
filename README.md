@@ -1,6 +1,6 @@
 # Before You Go · 出門看看
 
-Compare two or three Taiwan destinations using live scenic cameras and nearby Central Weather Administration observations. The English and Traditional Chinese picker groups 21 destinations into waterfronts and old streets, lakes and countryside, and coastal views.
+Compare two or three Taiwan destinations using live scenic cameras and nearby Central Weather Administration observations. The English and Traditional Chinese picker groups 63 destinations into waterfronts and old streets, lakes and countryside, and coastal views.
 
 ## Run locally
 
@@ -10,4 +10,4 @@ Opening index.html directly provides camera links. Side-by-side YouTube players 
 
 ## Catalog
 
-The destination names, viewpoints, broadcaster credits, source links, video IDs and weather station IDs are in `catalog.js`. If a broadcaster restarts a stream with a new ID, use the source link to identify the current broadcast. The picker artwork is illustrative.
+The destination names, viewpoints, broadcaster credits, source links, video IDs and weather station IDs are in `catalog.js`. If a broadcaster restarts a stream with a new ID, use the source link to identify the current broadcast. The picker artwork is illustrative. Each new card links to the Tourism Administration’s individual camera page and identifies its nearby CWA station. The expansion draws on [TW Live](https://tw.live/travel/), [台灣景點人潮即時影像](https://monitor1.wfuapp.com/), and the [Tourism Administration camera directory](https://www.taiwan.net.tw/m1.aspx?sNo=0042331).
